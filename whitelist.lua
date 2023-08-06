@@ -1,5 +1,5 @@
 local whitelist = {"
-"7grandad66", "BedwarsFixYourGame9"
+"4808214912", "4869389269"
 }
 local function whitelist.lplrtype(plr)
    if plr.Name == whitelist then
